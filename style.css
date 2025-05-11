@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  font-size: 20px;
+  margin-top: 30px;
+  color: #0b5394; /* blu scuro */
+}
+
+h2 {
+  font-size: 18px;
+  margin-top: 20px;
+  color: #1c4587; /* blu medio */
+}
+
+p {
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+strong {
+  font-weight: bold;
+}
+
+hr {
+  margin: 20px 0;
+}
